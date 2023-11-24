@@ -1,0 +1,3 @@
+src/app/code/core/Mage/Contacts/ 				                        app/code/core/Mage/Contacts/
+src/app/etc/modules/Mage_Contacts.xml 				                    app/etc/modules/Mage_Contacts.xml
+src/app/locale/en_US/Mage_Contacts.csv 				                    app/locale/en_US/Mage_Contacts.csv

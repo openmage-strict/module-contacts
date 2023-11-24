@@ -1,5 +1,7 @@
 src/app/code/core/Mage/Contacts/ 				                        app/code/core/Mage/Contacts/
 src/app/design/frontend/base/default/layout/contacts.xml 	            app/design/frontend/base/default/layout/contacts.xml
 src/app/design/frontend/base/default/template/contacts/                 app/design/frontend/base/default/template/contacts/
+src/app/design/frontend/rwd/default/layout/contacts.xml 	            app/design/frontend/rwd/default/layout/contacts.xml
+src/app/design/frontend/rwd/default/template/contacts/                  app/design/frontend/rwd/default/template/contacts/
 src/app/etc/modules/Mage_Contacts.xml 				                    app/etc/modules/Mage_Contacts.xml
 src/app/locale/en_US/Mage_Contacts.csv 				                    app/locale/en_US/Mage_Contacts.csv

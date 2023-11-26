@@ -5,3 +5,4 @@ src/app/design/frontend/rwd/default/layout/contacts.xml         app/design/front
 src/app/design/frontend/rwd/default/template/contacts/          app/design/frontend/rwd/default/template/contacts/
 src/app/etc/modules/Mage_Contacts.xml                           app/etc/modules/Mage_Contacts.xml
 src/app/locale/en_US/Mage_Contacts.csv                          app/locale/en_US/Mage_Contacts.csv
+src/app/locale/en_US/template/email/contact_form.html           app/locale/en_US/template/email/contact_form.html
